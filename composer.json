@@ -1,0 +1,13 @@
+{
+    "name": "anutka/comp",
+    "description": "AnnaDescription",
+    "authors": [
+        {
+            "name": "Anna",
+            "email": "kostya.nik.a@yandex.ru"
+        }
+    ],
+    "require": {
+        "yandex/geo": "^1.1"
+    }
+}
